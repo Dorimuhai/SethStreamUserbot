@@ -1,7 +1,7 @@
 
 ## 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammadrizky16/KyyStreamUserbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dorimuhai/SethStreamUserbot)
 
 ## KALAU NGEFORK JANGAN LUPA KASI STARNYA YA ANJG 
  
@@ -11,3 +11,4 @@
 - [KYY](https://t.me/zxcskyy)
 - [Kyy](https://t.me/IDnyaKosong)
 - [Tomi](https://t.me/Tomi_sn)
+- [Seth](https://t.me/xyzsethhh)
